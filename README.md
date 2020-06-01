@@ -1,2 +1,2 @@
 # ecoleta-backend-ts
-Backend code for ecoleta application from Rocketseat NWL week 
+Backend code for 'Ecoleta' application from Rocketseat NWL week 
